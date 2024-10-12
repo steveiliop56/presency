@@ -19,7 +19,7 @@ func main() {
 	appErr := wails.Run(&options.App{
 		Title:  "Presency",
 		Width:  400,
-		Height: 500,
+		Height: 600,
 		AssetServer: &assetserver.Options{
 			Assets: assets,
 		},
