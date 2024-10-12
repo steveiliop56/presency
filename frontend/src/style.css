@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "GG-Sans-Regular";
+  src: url("./assets/fonts/ggSans/regular.ttf");
+}
+
+@font-face {
+  font-family: "GG-Sans-Medium";
+  src: url("./assets/fonts/ggSans/medium.ttf");
+}
+
+@font-face {
+  font-family: "GG-Sans-Semibold";
+  src: url("./assets/fonts/ggSans/semibold.ttf");
+}
+
+@font-face {
+  font-family: "GG-Sans-Bold";
+  src: url("./assets/fonts/ggSans/bold.ttf");
+}
